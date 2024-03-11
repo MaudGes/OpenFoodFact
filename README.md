@@ -2,4 +2,5 @@ Exploratory and statistical analysis of the Open Food Fact database to estimate 
 
 Data cleaning and exploration
 
-Statistical bivariate and multivariate analyses
+Bivariate and multivariate analyses (PCA, multiple regression, Anova)
+
